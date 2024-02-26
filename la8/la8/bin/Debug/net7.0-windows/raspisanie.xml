@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rootElement>
+    <unit>
+        <uWeekday>Понедельник</uWeekday>
+        <uSubject>Физ-ра</uSubject>
+        <uAuditory>Л-303</uAuditory>
+        <uTime>9:40</uTime>
+    </unit>
+    <unit>
+        <uWeekday>Понедельник</uWeekday>
+        <uSubject>Теория информации</uSubject>
+        <uAuditory>Н-305</uAuditory>
+        <uTime>11:30</uTime>
+    </unit>
+    <unit>
+        <uWeekday>Понедельник</uWeekday>
+        <uSubject>Технический перевод</uSubject>
+        <uAuditory>Л-719</uAuditory>
+        <uTime>13:30</uTime>
+    </unit>
+    <unit>
+        <uWeekday>Вторник</uWeekday>
+        <uSubject>Вычислительная математика</uSubject>
+        <uAuditory>Н-105</uAuditory>
+        <uTime>13:30</uTime>
+    </unit>
+    <unit>
+        <uWeekday>Вторник</uWeekday>
+        <uSubject>Мат. логика</uSubject>
+        <uAuditory>Л-213</uAuditory>
+        <uTime>15:10</uTime>
+    </unit>
+    <unit>
+        <uWeekday>Среда</uWeekday>
+        <uSubject>Физ-ра</uSubject>
+        <uAuditory>А-404</uAuditory>
+        <uTime>8:00</uTime>
+    </unit>
+    <unit>
+        <uWeekday>Среда</uWeekday>
+        <uSubject>Вычислительная математика</uSubject>
+        <uAuditory>Н-311</uAuditory>
+        <uTime>11:30</uTime>
+    </unit>
+    <unit>
+        <uWeekday>Среда</uWeekday>
+        <uSubject>Теория информации</uSubject>
+        <uAuditory>Н-305</uAuditory>
+        <uTime>13:30</uTime>
+    </unit>
+    <unit>
+        <uWeekday>Среда</uWeekday>
+        <uSubject>Методы оптимизацц</uSubject>
+        <uAuditory>Л-303</uAuditory>
+        <uTime>15:10</uTime>
+    </unit>
+</rootElement>
